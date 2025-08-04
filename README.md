@@ -89,12 +89,6 @@ Each category contains a curated list of 10 playful excuses meant to amuse and i
 
 ---
 
-## 📸 Screenshots
-
-> *(Include screenshots of your homepage, services page with cards, and an open excuse list)*
-
----
-
 ## 💬 Testimonials
 
 > “I used an excuse from the 'weird ones' section and my boss just stared at me... success!”  
