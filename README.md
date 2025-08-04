@@ -125,12 +125,6 @@ While this project is for academic purposes, feel free to:
 
 ---
 
-## 🪪 License
-
-This project is open source under the [MIT License](LICENSE).
-
----
-
 ## 📫 Contact
 
 Want to get in touch or leave feedback?
