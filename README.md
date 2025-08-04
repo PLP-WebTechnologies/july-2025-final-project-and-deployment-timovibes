@@ -14,12 +14,8 @@ Welcome to **The Excuse Department**, your one-stop hub for witty, creative, and
 - [Tech Stack](#-tech-stack)
 - [Live Website](#-live-website)
 - [How to Use](#-how-to-use)
-- [Screenshots](#-screenshots)
 - [Testimonials](#-testimonials)
 - [FAQs](#-faqs)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ---
 
 ## 🧠 Overview
@@ -74,7 +70,7 @@ Each category contains a curated list of 10 playful excuses meant to amuse and i
 
 ## 🌐 Live Website
 
-🔗 [View it here](https://yourusername.github.io/the-excuse-department/)
+🔗 [View it here](https://timovibes.github.io/july-2025-final-project-and-deployment-timovibes/)
 
 
 ---
